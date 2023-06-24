@@ -1,4 +1,4 @@
-[![mama-recipe.png](https://i.postimg.cc/P5P3bbLX/mamarecipe.png)](https://postimg.cc/nXfGpDYg)
+[![mamarecipe.png](https://i.postimg.cc/P5P3bbLX/mamarecipe.png)](https://postimg.cc/nXfGpDYg)
 # Mama Recipe
 
 Discover Recipe & Delicious Food.
