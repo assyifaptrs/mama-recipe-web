@@ -1,10 +1,9 @@
-[![mamarecipe.png](https://i.postimg.cc/P5P3bbLX/mamarecipe.png)](https://postimg.cc/nXfGpDYg)
 # Mama Recipe
 
 Discover Recipe & Delicious Food.
 
 ## About The Project
-Mama Recipe is a responsive web-based application that can be accessed on desktop or mobile devices. The app aims for users to find what recipes they need or share their recipes' food to each other.
+Mama Recipe is a responsive web-based application that can be accessed on desktop or mobile devices. The app aims for users to find what recipes they need or share their recipes food to each other.
 
 This app was built with some technologies below:
 
