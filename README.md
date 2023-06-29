@@ -15,7 +15,7 @@ This app was built with some technologies below:
 
 ## Installation
 
-After downloading my [Mama Recipe](https://github.com/assyifaptrs/mama-recipe-web) project, open the file with your text editor (I use Visual Studio Code), right-click on the mouse, and choose Open with Live Server (make sure you have already installed the Live Server extension).
+After downloading [Mama Recipe](https://github.com/assyifaptrs/mama-recipe-web) project, open the file with your text editor (I use Visual Studio Code), right-click on the mouse, and choose Open with Live Server (make sure you have already installed the Live Server extension).
 
 ## Features
 
