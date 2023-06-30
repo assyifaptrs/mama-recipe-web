@@ -54,7 +54,9 @@ After downloading [Mama Recipe](https://github.com/assyifaptrs/mama-recipe-web) 
 - **[Detail Recipe]**
 
 [![Detail Recipe](https://i.postimg.cc/s2mMJbw4/mama-recipe-app-netlify-app-detail-recipe-html.png)](https://postimg.cc/wttxq4K1)
+
 ## Authors
 
-- [Github](https://www.github.com/assyifaptrs)
-- [Linkedin](https://www.linkedin.com/in/assyifa-putri)
+- My Email : muliaassyifa@gmail.com
+
+- Project Link : https://github.com/assyifaptrs/mama-recipe-app
