@@ -57,6 +57,6 @@ After downloading [Mama Recipe](https://github.com/assyifaptrs/mama-recipe-web) 
 
 ## Authors
 
-- My Email : muliaassyifa@gmail.com
+- My Email: muliaassyifa@gmail.com
 
-- Project Link : https://github.com/assyifaptrs/mama-recipe-app
+- Project Link: https://github.com/assyifaptrs/mama-recipe-web
